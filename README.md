@@ -1,5 +1,5 @@
 # SimzLab
-SimzLab is a collection of interactive simulations of control, water purification, and heat exchanger systems for active learning.
+SimzLab is a collection of interactive simulations for active learning. Simulations include water purification systems, process control examples, and a heat exchanger. 
 
 This project is being built with the open-source, Community Edition of LiveCode. Get it at www.LiveCode.org.
 
