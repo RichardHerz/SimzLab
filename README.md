@@ -11,3 +11,4 @@ The Lab was developed by Richard K. Herz and used by his students of Chemical Re
 
 The most recent builds of application files for Windows OS can be downloaded from ReactorLab.net.
 
+![Szl wiki image 06](https://github.com/RichardHerz/SimzLab/blob/master/web_pages/graphics/wiki_06.png)
