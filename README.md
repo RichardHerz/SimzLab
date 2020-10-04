@@ -1,5 +1,5 @@
 # SimzLab
-The desktop app SimzLab is a collection of interactive simulations for active learning. Simulations include water purification systems, process control examples, and a heat exchanger. 
+The desktop app SimzLab is a collection of interactive simulations for active learning. Simulations include water purification systems in PureWaterLab, process control examples, and a heat exchanger. 
 
 This project was built with the open-source, Community Edition of LiveCode. Get it at www.LiveCode.org.
 
