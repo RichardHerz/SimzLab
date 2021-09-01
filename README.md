@@ -1,9 +1,9 @@
 # SimzLab
 The desktop app SimzLab is a collection of interactive simulations for active learning. Simulations include water purification systems in PureWaterLab, process control examples, and a heat exchanger. 
 
-This project was built with the open-source, Community Edition of LiveCode. Get it at www.LiveCode.org.
+This project was built with LiveCode. Get it at LiveCode.com.
 
-You need to use the LiveCode IDE, version 8 or higher, in order to use this project.
+You need to use LiveCode, version 8 or higher, in order to use this project.
 
 If you are interested, PLEASE READ THE WIKI FOR THIS PROJECT (Wiki tab above) and contact Richard Herz.
 
